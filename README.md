@@ -8,15 +8,15 @@
 💡 Passionate about problem-solving, Data Analyst, Machine Learning, Data Science and AI-driven innovations  
 
 ## 🛠️ Tech Stack  
-**Programming Languages:** C, Java, Python, SQL, Sqlite
-**ML & AI:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn 
-**Data Visualization:** Tableau, Power BI
-**Web Development:** HTML, CSS, JavaScript
-**Frame Works:** Flask
-**Tools & Platforms:** Git, GitHub, Jupyter ,VS Code ,Google Colab
+🔹**Programming Languages:** C, Java, Python, SQL, Sqlite
+🔹**ML & AI:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn 
+🔹**Data Visualization:** Tableau, Power BI
+🔹**Web Development:** HTML, CSS, JavaScript
+🔹**Frame Works:** Flask
+🔹**Tools & Platforms:** Git, GitHub, Jupyter ,VS Code ,Google Colab
 
 ## 📌 Projects  
-🔹 **[Hybrid Machine Learning For Credit Card Fraud Detection in Real Time Payment Processing Systems](#)** – Credit card fraud is a growing concern in digital transactions, leading to financial losses.  
+🔹 **[Hybrid Machine Learning For Credit Card Fraud Detection in Real Time Payment Processing Systems](#)** – fraud detection .  
 🔹 **[Exploratory Data Analysis on Forest Fires or Not](#)** –The project objective is to a particular Forest will fires or not.Based on relevant factors. 
 🔹 **[Sales Data Analysis using Power BI ](#)** – Developed an interactive Power BI dashboard to analyze sales data.  
 
