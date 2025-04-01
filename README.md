@@ -8,11 +8,11 @@
 💡 Passionate about problem-solving, Data Analyst, Machine Learning, Data Science and AI-driven innovations  
 
 ## 🛠️ Tech Stack  
-🔹**Programming Languages:** C, Java, Python, SQL, Sqlite
-🔹**ML & AI:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn 
-🔹**Data Visualization:** Tableau, Power BI
-🔹**Web Development:** HTML, CSS, JavaScript
-🔹**Frame Works:** Flask
+🔹**Programming Languages:** C, Java, Python, SQL, Sqlite                                                         
+🔹**ML & AI:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn                                                            
+🔹**Data Visualization:** Tableau, Power BI                                              
+🔹**Web Development:** HTML, CSS, JavaScript                                           
+🔹**Frame Works:** Flask                                                                    
 🔹**Tools & Platforms:** Git, GitHub, Jupyter ,VS Code ,Google Colab
 
 ## 📌 Projects  
