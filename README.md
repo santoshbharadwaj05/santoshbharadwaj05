@@ -21,7 +21,7 @@
 🔹 **[Sales Data Analysis using Power BI ](#)** – Developed an interactive Power BI dashboard to analyze sales data.  
 
 ## 🏆 Achievements  
-✅ GATE DA 2025 Qualified with All India Rank 8314 
+✅ GATE DA 2025 Qualified with All India Rank 8314                                                          
 ✅ NPTEL Certified in DataBase Management Systems, Introduction to Programming in C   
 ✅ Solved 250+ and 70+ DSA problems from Coding Ninjas and Leetcode   
 
