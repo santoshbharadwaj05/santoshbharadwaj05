@@ -17,7 +17,7 @@
 
 ## 📌 Projects  
 🔹 **[Hybrid Machine Learning For Credit Card Fraud Detection in Real Time Payment Processing Systems](#)** – fraud detection .  
-🔹 **[Exploratory Data Analysis on Forest Fires or Not](#)** –The objective is a particular Forest will fires or not,Based on relevant factors and Data. 
+🔹 **[Exploratory Data Analysis on Forest Fires or Not](#)** –The objective is a particular Forest will fires or not,Based on factors and Data.                                             
 🔹 **[Sales Data Analysis using Power BI ](#)** – Developed an interactive Power BI dashboard to analyze sales data.  
 
 ## 🏆 Achievements  
