@@ -5,7 +5,7 @@
 ## 🚀 About Me  
 🎓 Final Year B.Tech CSE (AIML) Student at Raghu Engineering College, Visakhapatnam  
 📌 Aspiring Machine Learning and Data Science Enthusiast  
-💡 Passionate about problem-solving, Data Analyst, Machine Learning, Data Science and AI-driven innovations  
+💡 Passionate about problem-solving, Data Analyst, Data Engineer, Machine Learning, Data Science and AI-driven innovations  
 
 ## 🛠️ Tech Stack  
 🔹**Programming Languages:** C, Java, Python, SQL, Sqlite                                                         
